@@ -10,11 +10,11 @@ echo ""
 echo "                     #################################"
 echo "                                 -PHISHX- "
 echo "                     #################################"
-echo "                         [+]: MADE BY WEEBSEC :[+]"
+echo "                         [+]: MADE BY AlexxLy :[+]"
 echo "                     #################################"
 echo ""
-echo "                           ONLY run this as ROOT"
-echo "               press ENTER to continue with the Installation"
+echo "                           Vous devais etre administrateur"
+echo "               Appuier sur entrer pour continuer l'Installation"
 
 read varos
 
